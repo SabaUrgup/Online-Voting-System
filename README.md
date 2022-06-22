@@ -52,7 +52,7 @@ git clone https://github.com/SabaUrgup/Online-Voting-System.git
 
 Ayrıca  🚨 
 
-➤ İncelemek için: [`Web Site Demo`]([https://sabaurgup.github.io/QuizApp/](https://sabaurgup.000webhostapp.com/))
+➤ İncelemek için: [`Web Site Demo`](https://sabaurgup.000webhostapp.com/)
 
 ## Yazar ve İletişim
 
